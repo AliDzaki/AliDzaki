@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning back-end web (LARAVEL/PHP)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me alidzakifikri@gmail.com
-- 😄 Pronouns: maneh
 - ⚡ Fun fact: I just started learning programming
 
 <!---
